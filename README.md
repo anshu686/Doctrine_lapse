@@ -1,2 +1,2 @@
 # Doctrine_lapse
-Helps your startup grow with you.
+## Helps your startup grow with you.
